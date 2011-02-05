@@ -1,5 +1,5 @@
 Name:           python-djblets
-Version:        0.6.6
+Version:        0.6.7
 Release:        %mkrel 1
 Summary:        A collection of useful classes and functions for Django
 Group:          Networking/WWW
