@@ -52,3 +52,18 @@ rm -rf $RPM_BUILD_ROOT
 %{python_sitelib}/Djblets*.egg-info/
 %{python_sitelib}/djblets/
 
+
+
+%changelog
+* Sat Feb 05 2011 Guillaume Rousse <guillomovitch@mandriva.org> 0.6.7-1mdv2011.0
++ Revision: 636244
+- update to new version 0.6.7
+
+* Mon Nov 29 2010 Guillaume Rousse <guillomovitch@mandriva.org> 0.6.6-1mdv2011.0
++ Revision: 603068
+- update to new version 0.6.6
+
+* Sun Nov 07 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.6.4-1mdv2011.0
++ Revision: 594408
+- import python-djblets
+
