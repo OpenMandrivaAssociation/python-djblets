@@ -1,6 +1,6 @@
 Name:           python-djblets
 Version:        0.6.7
-Release:        %mkrel 1
+Release:        2
 Summary:        A collection of useful classes and functions for Django
 Group:          Networking/WWW
 # Djblets is MIT licensed:
