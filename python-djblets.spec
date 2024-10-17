@@ -9,7 +9,7 @@ Group:          Networking/WWW
 # the package license is "MIT and (MIT or GPLv2)":
 # https://www.redhat.com/archives/fedora-legal-list/2009-May/msg00025.html
 License:        MIT and (MIT or GPLv2)
-URL:            http://www.review-board.org
+URL:            https://www.review-board.org
 Source0:        http://downloads.review-board.org/releases/Djblets/0.6/Djblets-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildArch:      noarch
